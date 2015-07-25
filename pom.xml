@@ -139,11 +139,11 @@
                 </exclusion>
             </exclusions>
         </dependency>
-        <dependency>
+       <!--  <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-lang3</artifactId>
             <version>3.1</version>
-        </dependency>
+        </dependency> -->
         <dependency>
             <groupId>org.codehaus.jackson</groupId>
             <artifactId>jackson-jaxrs</artifactId>
@@ -245,11 +245,11 @@
             <artifactId>org.apache.httpcomponents.httpclient</artifactId>
             <version>4.1.2</version>
         </dependency>
-        <dependency>
+     <!--    <dependency>
             <groupId>org.apache.httpcomponents</groupId>
             <artifactId>httpcore</artifactId>
             <version>4.3</version>
-        </dependency>
+        </dependency> -->
         <dependency>
             <groupId>org.apache.httpcomponents</groupId>
             <artifactId>httpmime</artifactId>
